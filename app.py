@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import sqlite3
 from datetime import datetime
-
+import plotly.graph_objects as go
 def main():
     st.title("Personal Finance Manager 💰")
 
